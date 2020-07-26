@@ -1,1 +1,4 @@
-console.log('Hello World');
+import puppeteer from 'puppeteer';
+import dotenv from 'dotenv';
+
+dotenv.config();
